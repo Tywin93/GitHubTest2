@@ -2,3 +2,6 @@ Hi Emil
 Dev commit
 commit 1
 commit 2
+
+feature 2 commit
+feature 2 commit 2
